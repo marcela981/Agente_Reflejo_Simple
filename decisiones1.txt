@@ -1,0 +1,17 @@
+True True False False derecha
+True True False True abajo
+False True True True abajo
+True True True False derecha
+False False True True arriba
+True False False True izquierda
+False True True False derecha
+False False False True abajo
+True False True False derecha
+False True False True arriba
+True False True True derecha
+False False True False abajo
+True True True True izquierda
+False True True True izquierda
+True False False False izquierda  # Error corregido
+False False False False abajo
+* * * * tomar
